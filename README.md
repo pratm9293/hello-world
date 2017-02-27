@@ -1,5 +1,5 @@
 # hello-world
-Getting started.
+My Info:
 
 Learning Git to showcase projects and assignments, with the goal of helping employers get an idea of my skills.
 I have experience working in the following programming languages: Java, C++, Python, and SQL (Creating and querying databases).
